@@ -1,7 +1,7 @@
 #include "SoftwareSerial.h"
 
-String ssid ="Dr.Kook";
-String password="1357924680abc";
+String ssid ="";
+String password="";
 
 SoftwareSerial esp(2, 3);// RX, TX
 
